@@ -13,6 +13,7 @@
 		B18B35482861591F008F2D76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B18B35462861591F008F2D76 /* Main.storyboard */; };
 		B18B354A28615920008F2D76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B18B354928615920008F2D76 /* Assets.xcassets */; };
 		B18B354D28615920008F2D76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B18B354B28615920008F2D76 /* LaunchScreen.storyboard */; };
+		B18B355428615985008F2D76 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B18B355328615985008F2D76 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B18B35472861591F008F2D76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B18B354928615920008F2D76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B18B354C28615920008F2D76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B18B355328615985008F2D76 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		B18B353F2861591F008F2D76 /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				B18B355328615985008F2D76 /* harrypotter.mp4 */,
 				B18B35402861591F008F2D76 /* AppDelegate.swift */,
 				B18B35422861591F008F2D76 /* art.scnassets */,
 				B18B35442861591F008F2D76 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			files = (
 				B18B35432861591F008F2D76 /* art.scnassets in Resources */,
 				B18B354D28615920008F2D76 /* LaunchScreen.storyboard in Resources */,
+				B18B355428615985008F2D76 /* harrypotter.mp4 in Resources */,
 				B18B354A28615920008F2D76 /* Assets.xcassets in Resources */,
 				B18B35482861591F008F2D76 /* Main.storyboard in Resources */,
 			);
@@ -297,6 +301,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.7;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -327,6 +332,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.7;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
